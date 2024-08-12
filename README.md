@@ -48,3 +48,7 @@ Este projeto utiliza UiPath para automatizar o processo de recepção de e-mails
 
 - Certifique-se de que os caminhos de arquivo e nomes não excedam os limites de caracteres suportados pelo sistema.
 - O robô ignora registros que falharam ao processar as informações e só envia os relatórios dos registros que foram processados com sucesso.
+
+## Fotos do projeto
+![](https://github.com/user-attachments/assets/6b90c581-bcab-4ae9-97df-9fac4213e377)
+![](https://github.com/user-attachments/assets/9b9eebc2-0024-43d0-9676-99fbf4a5beb8)
